@@ -34,8 +34,13 @@ La sécurité sur Internet est essentielle pour protéger les données et la vie
 
 Pour plus de détails, regardez la [vidéo complète sur YouTube](https://www.youtube.com/watch?v=7_LPdttKXPc).
 
-![Internet]()  
+![Internet](https://assets-global.website-files.com/601057763f823a0bf65a8071/60acd2e17b456d11114e1b94_Article%20Cybersecurite-p-1080.png)  
 
 > "Internet est devenu le système nerveux de notre planète, reliant les individus, les communautés et les nations du monde entier." - Auteur inconnu
 
 C'est ainsi que fonctionne Internet, un réseau complexe mais essentiel à notre vie moderne.
+
+
+
+
+*This theory file has been reviewed by Nate*
